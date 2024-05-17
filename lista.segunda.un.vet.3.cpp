@@ -19,7 +19,7 @@ int main() {
     
 
     
-    cout << "Vetor com os números reais: " << endl;
+    cout << "Números reais: " << endl;
     for(int i = 0; i < size; ++i) {
         cout << numbers[i] << " " << endl;
       
@@ -27,7 +27,7 @@ int main() {
     cout << endl;
 
   
-    cout << "Vetor com os quadrados: " << endl; 
+    cout << "Quadrados: " << endl; 
     for(int i = 0; i < size; ++i) {
         cout << squares[i] << " " << endl;
     }
