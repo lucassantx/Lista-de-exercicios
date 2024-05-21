@@ -5,7 +5,7 @@ int main() {
   
     int vetor[6];
 
-    cout << "Digite 10 valores inteiros: " << endl;
+    cout << "Digite 6 valores inteiros: " << endl;
     for (int i = 0; i < 6; ++i) {
         cin >> vetor[i];
     }
