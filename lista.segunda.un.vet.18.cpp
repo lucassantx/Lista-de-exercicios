@@ -22,7 +22,7 @@ int main() {
         }
     }
 
-    cout << "Os múltiplos de " << x << " no vetor são: ";
+    cout << "Os múltiplos de " << x << " na lista são: ";
     for (int i = 0; i < m.size(); ++i) {
         cout << m[i] << " ";
     }
